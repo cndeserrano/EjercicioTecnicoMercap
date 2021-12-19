@@ -10,7 +10,7 @@ El trabajo es bastante simple de seguir, pero quisiera aclarar la manera de ver 
 	usuario nuevoMes: 'Septiembre'.
 	
 	usuario crearLlamadaLocalDe: 3 MinutosElDia: 'Viernes' aLas: 10.
-  sistema mostrarFactura: usuario enElMes: 'Septiembre'.
+	sistema mostrarFactura: usuario enElMes: 'Septiembre'.
   
   
   
